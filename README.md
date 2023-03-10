@@ -9,7 +9,7 @@ Check out this video tutorial on how to deploy a Django project on a Digital Oce
 # Article Tutorial 📝
 For a detailed step-by-step guide on deploying a Django project on a Digital Ocean VPS, check out this article:
 
-##  👉 [How to Deploy Django Project on Digital Ocean VPS (Droplet)](https://medium.com/@codewithmuh)
+##  👉 [How to Deploy Django Project on Digital Ocean VPS (Droplet)](https://codewithmuh.medium.com/deploy-django-project-on-digital-ocean-vps-droplet-ca6f88aa3ade)
 
 ##  Contents 📁
 This repository contains the following files and directories:
