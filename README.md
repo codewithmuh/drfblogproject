@@ -20,7 +20,7 @@ This repository contains the following files and directories:
 * **/blogapp:** Contains the files for the blog app models, views, and templates.
 * **.gitignore:** A file that specifies which files and directories should be ignored by Git.
 * **/README.md:** This file, providing an overview of the repository.
-* ****/manage.py:** The Django project management script.
+* **/manage.py:** The Django project management script.
 * **/requirements.txt:** A file that lists the Python packages required for the project.
 
 ## Getting Started 🚀
