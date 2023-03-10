@@ -14,10 +14,10 @@ For a detailed step-by-step guide on deploying a Django project on a Digital Oce
 ##  Contents 📁
 This repository contains the following files and directories:
 
-* /app: Contains the Django project files.
-* /config: Contains the Nginx and Gunicorn configuration files.
-* /scripts: Contains the shell scripts for setting up the server.
-* README.md: This file, providing an overview of the repository.
+** /app: Contains the Django project files.
+** /config: Contains the Nginx and Gunicorn configuration files.
+** /scripts: Contains the shell scripts for setting up the server.
+** README.md: This file, providing an overview of the repository.
 
 ## Getting Started 🚀
 To get started with deploying your Django project on a Digital Ocean VPS, follow the instructions in the tutorial video or article linked above. The files in this repository can be used as a starting point for your project, but you will need to modify them to suit your specific needs.
@@ -29,3 +29,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ## 👉 Happy Deploying! 👨‍💻👩‍💻
+
+#django #digitalocean #deployment #tutorial
