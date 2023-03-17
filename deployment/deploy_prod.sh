@@ -6,6 +6,7 @@ ssh root@143.110.240.81 <<EOF
   source /opt/envs/drfblogproject/bin/activate
   pip install -r requirements.txt
   ./manage.py migrate
-  sudo supervisorctl restart drfblogproject
+  sudo service gunicorn restart
+  sudo service nginx restart
   exit
 EOF
