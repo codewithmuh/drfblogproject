@@ -14,13 +14,13 @@ class BlogAdmin(admin.ModelAdmin):
         'user',
         'title',
         'blog_text',
+        'description',
         'main_image',
     ]
     list_display = [
         'title', 
         'user',
         'blog_text',
-    
         'main_image',
         'created_at',
         'updated_at',
