@@ -41,3 +41,10 @@ http://your_server_ip:8080 in your web browser.
 
 #To get your administrator password, run this command to get it.
  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
+ # Install Python
+sudo apt install -y python3 python3-pip
+
+# Install Virtualenv
+sudo pip3 install virtualenv
