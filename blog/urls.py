@@ -30,6 +30,11 @@ schema_view = swagger_get_schema_view(
     public=True,
 )
 
+admin.site.site_header = "Blog Admin"
+admin.site.site_title = "Blog Admin"
+admin.site.index_title = "Blog Admin"
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
