@@ -36,7 +36,8 @@ sudo systemctl status jenkins
 
 # This should show that Jenkins is active and running.
 
-#You should now be able to access the Jenkins web interface by going to http://your_server_ip:8080 in your web browser.
+#You should now be able to access the Jenkins web interface by going to 
+http://your_server_ip:8080 in your web browser.
 
 #To get your administrator password, run this command to get it.
  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
