@@ -30,9 +30,9 @@ schema_view = swagger_get_schema_view(
     public=True,
 )
 
-admin.site.site_header = "Blog Admin 1"
-admin.site.site_title = "Blog Admin 1"
-admin.site.index_title = "Blog Admin 1"
+admin.site.site_header = "Blog Admin 100"
+admin.site.site_title = "Blog Admin 100"
+admin.site.index_title = "Blog Admin 100"
 
 
 urlpatterns = [
