@@ -1,3 +1,6 @@
+### Hit the Star! ⭐
+If you are planning to use this repo for reference, please hit the star. Thanks!
+
 # Deploy Django Project on Digital Ocean VPS (Droplet) 🚀
 This repository contains the code and instructions for deploying a Django project on a Digital Ocean VPS (Droplet).
 
